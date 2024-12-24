@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harshit Ranjan</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitrnjn" alt="harshitrnjn" /></a> </p>
+
 
 Ask me about **HTML, CSS, TAILWIND, JAVASCRIPT, TYPESCRIPT, REACT JS, NEXT JS**
 
