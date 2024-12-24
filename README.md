@@ -5,7 +5,7 @@
 
 Ask me about **HTML, CSS, TAILWIND, JAVASCRIPT, TYPESCRIPT, REACT JS, NEXT JS**
 
-How to reach me **harshitranjan0000@gmail.com**
+How to reach me:**harshitranjan0000@gmail.com || 7970419402 || LINKEDIN: https://www.linkedin.com/in/harshit-ranjan-26518a264/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
