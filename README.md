@@ -5,11 +5,11 @@
 
 Ask me about **HTML, CSS, TAILWIND, JAVASCRIPT, TYPESCRIPT, REACT JS, NEXT JS**
 
-How to reach me:**harshitranjan0000@gmail.com || 7970419402 || LINKEDIN: https://www.linkedin.com/in/harshit-ranjan-26518a264/**
+How to reach me:**harshitranjan0000@gmail.com || 7970419402 || LINKEDIN: https://www.linkedin.com/in/harshitranjan31**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-ranjan-26518a264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-ranjan-26518a264/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshitranjan31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-ranjan-26518a264/" height="30" width="40" /></a>
 <a href="https://fb.com/harshit ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshit ranjan" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_.r.harshit._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.r.harshit._/" height="30" width="40" /></a>
 </p>
